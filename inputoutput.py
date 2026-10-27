@@ -1,0 +1,5 @@
+name = input("Enter your name : ")
+print("Hello", name)
+num1 = int (input("Enter First number:"))
+num2 = int (input ("Enter second number: "))
+print(f"the sum of {num1} and {num2} is {num1+num2}")
